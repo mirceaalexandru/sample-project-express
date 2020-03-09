@@ -1,0 +1,70 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: nanos
+  labels:
+    app: nanos
+spec:
+  type: LoadBalancer
+  ports:
+    - port: 30000
+      targetPort: 30000
+      protocol: TCP
+  selector:
+    app: nanos
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: nanos
+  labels:
+    app: nanos
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: nanos
+  template:
+    metadata:
+      labels:
+        app: nanos
+    spec:
+      containers:
+        - name: nanos-1
+          image: ........dkr.ecr.eu-west-1.amazonaws.com/nanos:latest
+          ports:
+            - name: http-port
+              containerPort: 30000
+              protocol: TCP
+          env:
+            - name: SERVICE_PORT
+              value: "30000"
+            - name: SERVICE_HOST
+              value: "0.0.0.0"
+            - name: NODE_ENV
+              value: "development"
+            - name: PROJECT_NAME
+              value: "Challenge"
+            - name: DB_CONN
+              value: "mongodb+srv://mongo-user:......@cluster0-....mongodb.net/test?retryWrites=true&w=majority"
+            - name: DB_NAME
+              value: "challenge"
+          livenessProbe:
+            httpGet:
+              path: /v1/health
+              port: http-port
+            initialDelaySeconds: 5
+            timeoutSeconds: 30
+          readinessProbe:
+            httpGet:
+              path: /v1/health
+              port: http-port
+            initialDelaySeconds: 5
+            timeoutSeconds: 30
+      initContainers:
+        - name: install
+          image: .......dkr.ecr.eu-west-1.amazonaws.com/nanos:latest
+          command:
+            - "npm"
+            - "run"
+            - "db:prepare"

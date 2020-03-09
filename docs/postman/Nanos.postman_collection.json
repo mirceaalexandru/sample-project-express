@@ -1,0 +1,217 @@
+{
+	"info": {
+		"_postman_id": "cc7309c2-761b-414e-86d7-871ffdc31d91",
+		"name": "Nanos",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Get Stats",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{server}}/v1/ads/{{adId}}/stats/startDate/{{startDate}}/endDate/{{endDate}}?limit=8&sort=cost_per_click&skip=0",
+					"host": [
+						"{{server}}"
+					],
+					"path": [
+						"v1",
+						"ads",
+						"{{adId}}",
+						"stats",
+						"startDate",
+						"{{startDate}}",
+						"endDate",
+						"{{endDate}}"
+					],
+					"query": [
+						{
+							"key": "limit",
+							"value": "8"
+						},
+						{
+							"key": "sort",
+							"value": "cost_per_click"
+						},
+						{
+							"key": "skip",
+							"value": "0"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Campaign by Id",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{server}}/v1/campaigns/{{campaignId}}",
+					"host": [
+						"{{server}}"
+					],
+					"path": [
+						"v1",
+						"campaigns",
+						"{{campaignId}}"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Put Campaign",
+			"request": {
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"status\": \"Pending\",\n    \"goal\": \"Branding & Something else\",\n    \"total_budget\": 172,\n    \"name\": \"Campaign updated\"\n}"
+				},
+				"url": {
+					"raw": "{{server}}/v1/campaigns/{{campaignId}}",
+					"host": [
+						"{{server}}"
+					],
+					"path": [
+						"v1",
+						"campaigns",
+						"{{campaignId}}"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Campaign by status",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{server}}/v1/campaigns/status/Pending",
+					"host": [
+						"{{server}}"
+					],
+					"path": [
+						"v1",
+						"campaigns",
+						"status",
+						"Pending"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Ad Groups by campaignId",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{server}}/v1/campaigns/{{campaignId}}/adGroups",
+					"host": [
+						"{{server}}"
+					],
+					"path": [
+						"v1",
+						"campaigns",
+						"{{campaignId}}",
+						"adGroups"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Put Ad Groups",
+			"request": {
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"age_range\": [\n        22,\n        35\n    ],\n    \"name\": \"Ad groupa3fee12c-4875-4d05-82fa-3a149d9a20e5\",\n    \"locations\": [\n        \"Paris\"\n    ],\n    \"keywords\": [\n        \"Best football boots\"\n    ],\n    \"genders\": [\n        \"Male\",\n        \"Female\"\n    ]\n}"
+				},
+				"url": {
+					"raw": "{{server}}/v1/adGroups/{{adGroupId}}",
+					"host": [
+						"{{server}}"
+					],
+					"path": [
+						"v1",
+						"adGroups",
+						"{{adGroupId}}"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Ad by campaignId",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{server}}/v1/campaigns/{{campaignId}}/ads",
+					"host": [
+						"{{server}}"
+					],
+					"path": [
+						"v1",
+						"campaigns",
+						"{{campaignId}}",
+						"ads"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Put Ad",
+			"request": {
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"description\": \"Description updated\",\n    \"url\": \"nanos.ai\",\n    \"image\": \"dummy_image.jpg\",\n    \"header\": \"Header updated\"\n}"
+				},
+				"url": {
+					"raw": "{{server}}/v1/ads/{{adId}}",
+					"host": [
+						"{{server}}"
+					],
+					"path": [
+						"v1",
+						"ads",
+						"{{adId}}"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}

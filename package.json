@@ -1,0 +1,38 @@
+{
+  "name": "nanos",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js",
+    "start:dev": "nodemon index.js",
+    "db:populate": "node scripts/populateDB",
+    "db:clean": "node scripts/cleanDB",
+    "db:createIndexes": "node scripts/createIndexes",
+    "db:prepare": "npm run db:clean && npm run db:createIndexes && npm run db:populate",
+    "start:docker": "wait-on tcp:mongo:27017 && npm run db:prepare && npm run start:dev",
+    "lint": "eslint index.js lib config --fix",
+    "test:integrations": "mocha test/integrations/*.test.js"
+  },
+  "author": "Mircea Alexandru <http://www.alexandrumircea.ro>",
+  "dependencies": {
+    "@hapi/joi": "^17.1.0",
+    "body-parser": "^1.19.0",
+    "express": "~4.16.1",
+    "mongodb": "^3.5.4",
+    "morgan": "~1.9.1",
+    "swagger-jsdoc": "^3.5.0",
+    "swagger-ui-express": "^4.1.3"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "chai": "^4.2.0",
+    "dotenv": "^8.2.0",
+    "eslint": "^6.5.1",
+    "mocha": "^6.2.2",
+    "supertest": "^4.0.2",
+    "nodemon": "^2.0.2",
+    "pre-commit": "^1.2.2"
+  },
+  "pre-commit": [
+    "lint"
+  ]
+}

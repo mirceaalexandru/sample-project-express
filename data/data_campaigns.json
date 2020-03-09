@@ -1,0 +1,702 @@
+[
+    {
+        "status": "Pending", 
+        "goal": "Sales", 
+        "total_budget": 89, 
+        "id": "2c4b12d4-84a1-4698-a9f2-3a436728110e", 
+        "name": "Campaign67db978c-a19d-4590-91f0-9d112b0916e1"
+    }, 
+    {
+        "status": "Pending", 
+        "goal": "Branding", 
+        "total_budget": 142, 
+        "id": "382f0c66-d223-46f0-b68c-23ba3d953f96", 
+        "name": "Campaignd82906b4-ea34-40a3-a650-9b530f2002bb"
+    }, 
+    {
+        "status": "Delivering", 
+        "goal": "Sales", 
+        "total_budget": 181, 
+        "id": "0aec3b20-f42d-4bae-b573-d719f00e5259", 
+        "name": "Campaignc84ef254-496b-4871-895c-7fcb2eee09d6"
+    }, 
+    {
+        "status": "Pending", 
+        "goal": "Branding", 
+        "total_budget": 170, 
+        "id": "e22dbe02-320d-4d33-8d72-40619f20e882", 
+        "name": "Campaignb94c6752-0468-4d00-adf1-0d128f66bff8"
+    }, 
+    {
+        "status": "Rejected", 
+        "goal": "Branding", 
+        "total_budget": 163, 
+        "id": "00868254-19b0-4b80-8854-3993e34ca089", 
+        "name": "Campaignb9980804-937b-4c4f-8e25-89c7f15055b5"
+    }, 
+    {
+        "status": "Rejected", 
+        "goal": "Sales", 
+        "total_budget": 99, 
+        "id": "5e76a5b8-ebf9-45fe-91df-353297d18102", 
+        "name": "Campaign9cab5d98-85b4-4f93-9ba2-f626dfbd3454"
+    }, 
+    {
+        "status": "Delivering", 
+        "goal": "Sales", 
+        "total_budget": 60, 
+        "id": "c15a47ab-c55d-477e-be9e-354a1d12ba79", 
+        "name": "Campaign1c0ba831-4ff2-4a74-8a58-d516c55f17ac"
+    }, 
+    {
+        "status": "Delivering", 
+        "goal": "Sales", 
+        "total_budget": 68, 
+        "id": "f7d7a14b-4316-4a5b-9ab9-fbb3bbce2b78", 
+        "name": "Campaign29589f99-29d8-4595-bb3a-93912dbfd581"
+    }, 
+    {
+        "status": "Rejected", 
+        "goal": "Branding", 
+        "total_budget": 96, 
+        "id": "fed6d826-62ea-43f2-950a-fa8041637a63", 
+        "name": "Campaign5a397410-ff9d-453d-be59-bac9dcb41344"
+    }, 
+    {
+        "status": "Rejected", 
+        "goal": "Branding", 
+        "total_budget": 188, 
+        "id": "8eb0afe6-1187-4959-b879-207b4abbb6dc", 
+        "name": "Campaign1de49453-d743-4ec0-8836-ada1a46c2c3a"
+    }, 
+    {
+        "status": "Delivering", 
+        "goal": "Sales", 
+        "total_budget": 184, 
+        "id": "44661bda-9e70-414f-a152-c236a0c4e4ac", 
+        "name": "Campaign2e0fa533-de0f-421d-8da4-cdae03afad91"
+    }, 
+    {
+        "status": "Pending", 
+        "goal": "Branding", 
+        "total_budget": 59, 
+        "id": "1e15fb85-5c4a-44d2-941c-23ac045f5ac1", 
+        "name": "Campaign2fa93300-f500-4341-8a6b-53ec01bcfb3c"
+    }, 
+    {
+        "status": "Pending", 
+        "goal": "Sales", 
+        "total_budget": 101, 
+        "id": "e3891a2e-7b12-4d9c-8ca4-dd9eb84438e3", 
+        "name": "Campaignf8760da0-6bbe-466e-bf7d-d3ba40b26b0c"
+    }, 
+    {
+        "status": "Delivering", 
+        "goal": "Branding", 
+        "total_budget": 105, 
+        "id": "72a7528a-a7dd-47bd-bca3-710a38a37a7c", 
+        "name": "Campaign3a7224f6-27af-4922-9b31-d4991302855c"
+    }, 
+    {
+        "status": "Delivering", 
+        "goal": "Sales", 
+        "total_budget": 137, 
+        "id": "e9920e63-f0fa-4d21-8229-cc8cabaf2c6b", 
+        "name": "Campaign58ba26c8-399c-4450-ae8d-c3dbf1206b61"
+    }, 
+    {
+        "status": "Delivering", 
+        "goal": "Branding", 
+        "total_budget": 172, 
+        "id": "a7192a30-7743-4d67-bf97-eb3aa88bf370", 
+        "name": "Campaign6894e564-4f57-4906-bf12-1a090c693ccd"
+    }, 
+    {
+        "status": "Delivering", 
+        "goal": "Sales", 
+        "total_budget": 94, 
+        "id": "7e7a94ff-a193-4b3b-87d0-3e3a3236802a", 
+        "name": "Campaignde8e8b33-f180-4914-81f9-58974c04be19"
+    }, 
+    {
+        "status": "Pending", 
+        "goal": "Branding", 
+        "total_budget": 192, 
+        "id": "4967daf2-f99e-4ddf-b9ad-646a359cfeba", 
+        "name": "Campaign60d4f8e5-9b19-4836-a86d-83c4ed8dc7f8"
+    }, 
+    {
+        "status": "Delivering", 
+        "goal": "Branding", 
+        "total_budget": 143, 
+        "id": "f39619f4-0388-4272-b0ea-9ec95ff86d84", 
+        "name": "Campaign9502e2d5-7ae6-47e1-b483-e2d2a29e6077"
+    }, 
+    {
+        "status": "Pending", 
+        "goal": "Branding", 
+        "total_budget": 116, 
+        "id": "54a4ab78-7688-483f-b81c-adbc6fe57709", 
+        "name": "Campaign289271de-99c6-4e73-a830-fb3c3347e97d"
+    }, 
+    {
+        "status": "Pending", 
+        "goal": "Branding", 
+        "total_budget": 65, 
+        "id": "ac02c1b0-02b4-434b-93ff-bce3393a8d6a", 
+        "name": "Campaign9e46c691-ada3-4937-9678-363ef173eab1"
+    }, 
+    {
+        "status": "Pending", 
+        "goal": "Branding", 
+        "total_budget": 189, 
+        "id": "cae82464-3110-48b0-9ed1-89d15b6ada83", 
+        "name": "Campaignc474cdaf-05bb-496e-b78c-6588ee9152a9"
+    }, 
+    {
+        "status": "Rejected", 
+        "goal": "Branding", 
+        "total_budget": 177, 
+        "id": "72819fe2-193a-4e03-9f3a-bcc415736e1f", 
+        "name": "Campaign81dd8762-3b9e-46f9-8272-bec7db4cb0f2"
+    }, 
+    {
+        "status": "Pending", 
+        "goal": "Branding", 
+        "total_budget": 129, 
+        "id": "f8101cc8-cb23-4054-bc99-375203e88697", 
+        "name": "Campaigncd123104-6694-44c6-bfa3-ea292627d0b2"
+    }, 
+    {
+        "status": "Delivering", 
+        "goal": "Branding", 
+        "total_budget": 103, 
+        "id": "121902f0-b840-4b55-a381-61debeb6646e", 
+        "name": "Campaign3d788c13-81d5-4da5-8fcf-9fd2d20ebeef"
+    }, 
+    {
+        "status": "Pending", 
+        "goal": "Branding", 
+        "total_budget": 148, 
+        "id": "6942b948-1fd0-441e-9dda-d80700edef81", 
+        "name": "Campaignc979b5c0-2b48-4624-a2ff-538e6f61b1c4"
+    }, 
+    {
+        "status": "Pending", 
+        "goal": "Branding", 
+        "total_budget": 168, 
+        "id": "2042758f-8f1b-4edc-a80a-348a14f95aac", 
+        "name": "Campaign41a1900d-57fd-4860-8581-091245f4ddd9"
+    }, 
+    {
+        "status": "Pending", 
+        "goal": "Sales", 
+        "total_budget": 150, 
+        "id": "9e10ea09-441c-488a-9623-47c0f1b7fadb", 
+        "name": "Campaign107ac37c-215c-47ad-b09a-66c70249c445"
+    }, 
+    {
+        "status": "Pending", 
+        "goal": "Branding", 
+        "total_budget": 123, 
+        "id": "f547b9e8-26ef-4c4f-934d-50f6711020a0", 
+        "name": "Campaignd3b94b99-457a-4b2a-bfda-ad515338cc4c"
+    }, 
+    {
+        "status": "Delivering", 
+        "goal": "Branding", 
+        "total_budget": 74, 
+        "id": "2f5970ee-6006-4cc2-9410-af60f14a1d0f", 
+        "name": "Campaignb442099d-eb7d-488e-a931-a93ba1356a63"
+    }, 
+    {
+        "status": "Rejected", 
+        "goal": "Branding", 
+        "total_budget": 123, 
+        "id": "e1671568-97cf-4870-956a-6a4bac0d9f80", 
+        "name": "Campaigne94bfb7c-7259-47d2-8dfd-1dbf7a2a4ef2"
+    }, 
+    {
+        "status": "Delivering", 
+        "goal": "Sales", 
+        "total_budget": 189, 
+        "id": "f9b8aa3c-b014-41ac-93ba-0f4cbd7176e4", 
+        "name": "Campaign342065f0-53b9-4325-a30c-80e16674a19a"
+    }, 
+    {
+        "status": "Pending", 
+        "goal": "Branding", 
+        "total_budget": 99, 
+        "id": "ab1df0fe-8a40-4659-a738-f79edb87a429", 
+        "name": "Campaign983722c5-66d5-4f88-a51a-1075e07f8217"
+    }, 
+    {
+        "status": "Rejected", 
+        "goal": "Branding", 
+        "total_budget": 186, 
+        "id": "82de8cd1-7e88-4479-afda-81f58650b33f", 
+        "name": "Campaigna66abcca-a80c-4f90-88b3-4cd7dcc903bc"
+    }, 
+    {
+        "status": "Rejected", 
+        "goal": "Branding", 
+        "total_budget": 177, 
+        "id": "d27cc394-325e-4db3-a6b8-cd83f0b374c9", 
+        "name": "Campaign1ca26d82-1ea5-4742-b777-864b37b63b55"
+    }, 
+    {
+        "status": "Pending", 
+        "goal": "Branding", 
+        "total_budget": 83, 
+        "id": "44b4c59d-582e-4d0c-87ab-9c93435175f2", 
+        "name": "Campaign5f4d56a3-2b5a-41be-9345-cb522a066b2d"
+    }, 
+    {
+        "status": "Pending", 
+        "goal": "Sales", 
+        "total_budget": 123, 
+        "id": "bcd012bd-0abe-449d-8196-2f047ceb213d", 
+        "name": "Campaign598a9857-6798-45c2-b095-7994834b9503"
+    }, 
+    {
+        "status": "Rejected", 
+        "goal": "Sales", 
+        "total_budget": 100, 
+        "id": "98378140-f7f6-4e6b-9542-efefd5846d68", 
+        "name": "Campaign40a5f455-b9df-4e75-af26-f60e18f077de"
+    }, 
+    {
+        "status": "Delivering", 
+        "goal": "Sales", 
+        "total_budget": 189, 
+        "id": "ad2260d6-54f1-43f4-9886-d40a70bc405c", 
+        "name": "Campaigndfea12a6-64a6-4487-b12a-4aca63146761"
+    }, 
+    {
+        "status": "Rejected", 
+        "goal": "Sales", 
+        "total_budget": 183, 
+        "id": "1dd591b1-a073-42bf-90a5-dd9c89d86246", 
+        "name": "Campaign81acc82b-e634-460b-87d1-9abc2655b235"
+    }, 
+    {
+        "status": "Delivering", 
+        "goal": "Branding", 
+        "total_budget": 168, 
+        "id": "3e945840-609c-4502-a134-c4d91504471c", 
+        "name": "Campaignd2506ce3-8135-4f11-b091-1fc7a48ccd0a"
+    }, 
+    {
+        "status": "Rejected", 
+        "goal": "Branding", 
+        "total_budget": 57, 
+        "id": "fd0bf3e9-30a8-4e3b-9a6e-0e3ff78d4727", 
+        "name": "Campaign42a46192-e964-4ae9-93f3-1978fa1f9836"
+    }, 
+    {
+        "status": "Pending", 
+        "goal": "Branding", 
+        "total_budget": 196, 
+        "id": "b05b1d09-5df7-4b73-afee-8517c39ac8aa", 
+        "name": "Campaigna36cfa38-89da-4a30-82fd-dae25e3e5c6d"
+    }, 
+    {
+        "status": "Rejected", 
+        "goal": "Branding", 
+        "total_budget": 128, 
+        "id": "d743bd80-d32b-423d-bccf-a94016bacb91", 
+        "name": "Campaignc710e327-a5d9-4a1f-b8bb-e4fcf0dca3d5"
+    }, 
+    {
+        "status": "Rejected", 
+        "goal": "Branding", 
+        "total_budget": 80, 
+        "id": "a2e9487b-769d-4d52-b2ce-bbadc3cfd79f", 
+        "name": "Campaign7ed724aa-298a-4e16-b6fe-dd45b61e1206"
+    }, 
+    {
+        "status": "Rejected", 
+        "goal": "Sales", 
+        "total_budget": 165, 
+        "id": "af732c3d-e0b7-4f6e-a85e-9fb5a222ed08", 
+        "name": "Campaign3a772cf5-422a-4d3b-b8d4-0fd7bd47a5f0"
+    }, 
+    {
+        "status": "Rejected", 
+        "goal": "Sales", 
+        "total_budget": 148, 
+        "id": "eb584b2b-b9d3-41a5-95bb-23214f0001be", 
+        "name": "Campaign3f82f835-9b53-4fe2-b4c4-e89d3fb080fa"
+    }, 
+    {
+        "status": "Rejected", 
+        "goal": "Branding", 
+        "total_budget": 148, 
+        "id": "38b57f91-4be1-40e0-8fde-81fb3c1c4fa8", 
+        "name": "Campaign1fb03c2a-7c1c-499f-9fa0-e986b099d1d6"
+    }, 
+    {
+        "status": "Rejected", 
+        "goal": "Branding", 
+        "total_budget": 61, 
+        "id": "a5e0473a-1994-43e0-99bc-d9f697b5bd61", 
+        "name": "Campaign758bd21f-41ef-4f20-8dd9-7b5292fc7763"
+    }, 
+    {
+        "status": "Delivering", 
+        "goal": "Branding", 
+        "total_budget": 190, 
+        "id": "4c7a4c22-3661-4f5c-b7d9-cf3a7e5e85ff", 
+        "name": "Campaign3790b380-1a00-43e9-a557-a0672d1a24ef"
+    }, 
+    {
+        "status": "Delivering", 
+        "goal": "Branding", 
+        "total_budget": 190, 
+        "id": "4d66d1be-5583-4915-9ca9-4d3084146928", 
+        "name": "Campaignbda9cd95-6b79-4d55-9792-88d8097fa244"
+    }, 
+    {
+        "status": "Pending", 
+        "goal": "Branding", 
+        "total_budget": 135, 
+        "id": "86b567c7-d2a4-437e-b1a0-b80bd3572a07", 
+        "name": "Campaign1d85242b-5cc4-4ecf-a8af-f48bdd8f492c"
+    }, 
+    {
+        "status": "Delivering", 
+        "goal": "Sales", 
+        "total_budget": 52, 
+        "id": "13cf07e3-8ab0-43be-9e88-943f909cbffb", 
+        "name": "Campaign9597e13f-a0aa-469b-a856-918ad8017f3e"
+    }, 
+    {
+        "status": "Pending", 
+        "goal": "Branding", 
+        "total_budget": 66, 
+        "id": "9d8ebf69-9be8-4acc-8c83-1fa5e6466661", 
+        "name": "Campaign818a7b37-6072-4df7-8989-21316f942fec"
+    }, 
+    {
+        "status": "Pending", 
+        "goal": "Sales", 
+        "total_budget": 61, 
+        "id": "f2e593c3-f772-421d-b355-95d22004f18e", 
+        "name": "Campaigna26f0a21-a39f-4ebf-9117-cedb34599b5c"
+    }, 
+    {
+        "status": "Rejected", 
+        "goal": "Branding", 
+        "total_budget": 75, 
+        "id": "e8f2768b-0a6c-4a6e-a8c7-14c43f57ee58", 
+        "name": "Campaigncf43a474-1ae1-4fca-9d90-7e4277ff28b4"
+    }, 
+    {
+        "status": "Delivering", 
+        "goal": "Sales", 
+        "total_budget": 72, 
+        "id": "ad60f224-45b7-42c8-b780-de2c3fbac2fe", 
+        "name": "Campaignf15b1575-3ab0-4f62-8982-31260bf3e36b"
+    }, 
+    {
+        "status": "Delivering", 
+        "goal": "Branding", 
+        "total_budget": 51, 
+        "id": "404b6414-3ec5-40dd-b1e4-b211f49b57ee", 
+        "name": "Campaign3bc58249-08ce-4bb2-9b4d-4165b1b6f68a"
+    }, 
+    {
+        "status": "Pending", 
+        "goal": "Branding", 
+        "total_budget": 54, 
+        "id": "c2dbef0f-e8e7-4c5a-bc88-7953d08ec423", 
+        "name": "Campaign5d387964-4021-4441-b2fa-7a35b4ebe92e"
+    }, 
+    {
+        "status": "Pending", 
+        "goal": "Sales", 
+        "total_budget": 130, 
+        "id": "e689f430-4782-48f7-901e-c4917fa59f1f", 
+        "name": "Campaign7cb10ef9-b229-41e9-b598-87807b8dc08c"
+    }, 
+    {
+        "status": "Rejected", 
+        "goal": "Branding", 
+        "total_budget": 89, 
+        "id": "5aa1e781-718f-40b9-8e65-359f960be72b", 
+        "name": "Campaignd5cbb257-01ac-4601-bed8-838bc914d6ed"
+    }, 
+    {
+        "status": "Rejected", 
+        "goal": "Branding", 
+        "total_budget": 134, 
+        "id": "3b6a87c8-a7ef-4f8f-baf0-24565785fa7b", 
+        "name": "Campaign2c8f2002-be91-435c-8b01-6f87fb49a171"
+    }, 
+    {
+        "status": "Rejected", 
+        "goal": "Sales", 
+        "total_budget": 189, 
+        "id": "dcb552f6-7062-4bff-81e8-b859d339593b", 
+        "name": "Campaign6c9292ac-02dd-4437-ad04-7554b911e481"
+    }, 
+    {
+        "status": "Rejected", 
+        "goal": "Branding", 
+        "total_budget": 170, 
+        "id": "ae46a3e3-5422-4f0c-9391-7e061a774102", 
+        "name": "Campaign34a74e2d-6985-40df-89f0-d889fae6a75b"
+    }, 
+    {
+        "status": "Delivering", 
+        "goal": "Branding", 
+        "total_budget": 72, 
+        "id": "4ea7f96c-8f3a-4a75-a061-5feddaa7079a", 
+        "name": "Campaign6ac49183-6d04-4fb6-9dd9-b04d0aeadf80"
+    }, 
+    {
+        "status": "Pending", 
+        "goal": "Branding", 
+        "total_budget": 111, 
+        "id": "3aba3605-3d90-48c2-a082-2185b53742ad", 
+        "name": "Campaignd9ebf844-a45d-4fe7-8ae3-c6d05ee966d8"
+    }, 
+    {
+        "status": "Pending", 
+        "goal": "Branding", 
+        "total_budget": 191, 
+        "id": "03d1b488-9aa5-402d-bbbc-9dda5503dc2f", 
+        "name": "Campaignee74b510-72ed-46a4-879c-5246462b3504"
+    }, 
+    {
+        "status": "Delivering", 
+        "goal": "Sales", 
+        "total_budget": 93, 
+        "id": "6db24ac2-033b-499f-9d47-7df4d2023575", 
+        "name": "Campaignbfcdaea6-2314-495c-bb55-3a87b6d7c5bd"
+    }, 
+    {
+        "status": "Delivering", 
+        "goal": "Sales", 
+        "total_budget": 89, 
+        "id": "6abb292c-0f6d-451f-9449-b2185dc7ec7d", 
+        "name": "Campaign33d79e8d-4665-44eb-b2e1-25a11ba7b4d4"
+    }, 
+    {
+        "status": "Rejected", 
+        "goal": "Sales", 
+        "total_budget": 86, 
+        "id": "cb13e695-9688-4d8e-aa63-06ead31e6ce4", 
+        "name": "Campaign0a54887d-c312-4bf5-8121-cd217140981b"
+    }, 
+    {
+        "status": "Pending", 
+        "goal": "Sales", 
+        "total_budget": 177, 
+        "id": "efa977c9-94e0-40c8-b19b-45413160e672", 
+        "name": "Campaignf762ddd0-ad78-4bed-8bfc-8c2f7dcf29ae"
+    }, 
+    {
+        "status": "Pending", 
+        "goal": "Branding", 
+        "total_budget": 146, 
+        "id": "8bc87db4-c950-4dd8-ae6b-3dee4a361f31", 
+        "name": "Campaignef910110-cc41-4b3c-92e5-f179cd0723c7"
+    }, 
+    {
+        "status": "Delivering", 
+        "goal": "Branding", 
+        "total_budget": 78, 
+        "id": "1eda4b64-d2b2-4ee3-b9c1-0509da3e6025", 
+        "name": "Campaigne7cb599b-a024-4853-9eff-b49761503a67"
+    }, 
+    {
+        "status": "Rejected", 
+        "goal": "Sales", 
+        "total_budget": 74, 
+        "id": "cdaa7da4-5f95-4879-92ba-be1b2d17b19e", 
+        "name": "Campaignb5388f7b-03bc-449f-9933-b78d0f15db9c"
+    }, 
+    {
+        "status": "Pending", 
+        "goal": "Sales", 
+        "total_budget": 108, 
+        "id": "ee6625be-1f00-472c-803a-3a8e64fbf3b2", 
+        "name": "Campaign9bd6a44b-d46f-47d8-b465-b690b39b313c"
+    }, 
+    {
+        "status": "Delivering", 
+        "goal": "Branding", 
+        "total_budget": 153, 
+        "id": "ed96c25b-4a9e-4c0e-9e93-79e9e6ed4b76", 
+        "name": "Campaigncd28939a-0fa8-4b9d-950d-9237c25b6fba"
+    }, 
+    {
+        "status": "Delivering", 
+        "goal": "Sales", 
+        "total_budget": 160, 
+        "id": "022704b4-7d32-4e0e-b7ff-d8f882d0f3d7", 
+        "name": "Campaign9c5697a5-bb7b-4dd6-8094-8dad8652340c"
+    }, 
+    {
+        "status": "Pending", 
+        "goal": "Branding", 
+        "total_budget": 172, 
+        "id": "1dee4c00-29b3-4799-af53-abb01c041dd4", 
+        "name": "Campaign8308f58b-2b51-4d02-abd8-3bdaec201365"
+    }, 
+    {
+        "status": "Rejected", 
+        "goal": "Branding", 
+        "total_budget": 90, 
+        "id": "ce07865b-cc96-484e-af68-4b7acdf0ca49", 
+        "name": "Campaign9b6316e8-ec0b-40b8-a784-bc9231762026"
+    }, 
+    {
+        "status": "Pending", 
+        "goal": "Sales", 
+        "total_budget": 83, 
+        "id": "1d770af8-712a-400d-a76a-ed4a78bce76a", 
+        "name": "Campaign26330db6-d85a-442d-9f16-1579d2ca98b0"
+    }, 
+    {
+        "status": "Delivering", 
+        "goal": "Sales", 
+        "total_budget": 150, 
+        "id": "99edb5f5-143e-426a-90e5-46ae2b28d8c9", 
+        "name": "Campaignb63aaa9b-c156-4ced-93e4-0a0edd514733"
+    }, 
+    {
+        "status": "Pending", 
+        "goal": "Sales", 
+        "total_budget": 152, 
+        "id": "c9b1d166-150a-4ab8-a67f-1ad871bb335b", 
+        "name": "Campaigna572ba80-bacf-49c2-afa3-36ce76b8b106"
+    }, 
+    {
+        "status": "Pending", 
+        "goal": "Sales", 
+        "total_budget": 134, 
+        "id": "4c7e92cb-910a-48e1-ad28-41755ca1d0ea", 
+        "name": "Campaign61ca1d4c-9a0d-4f6a-907d-471e0723f873"
+    }, 
+    {
+        "status": "Pending", 
+        "goal": "Branding", 
+        "total_budget": 74, 
+        "id": "dca8e744-65fd-4079-b292-1c9ae6d0af2b", 
+        "name": "Campaign87ef22e5-3d07-411a-a90d-7f3b4dfff4a2"
+    }, 
+    {
+        "status": "Rejected", 
+        "goal": "Sales", 
+        "total_budget": 185, 
+        "id": "ea770d61-6637-4788-98c3-9d86942e497c", 
+        "name": "Campaigndd8730db-911b-4fa6-8b0d-0f347c1df435"
+    }, 
+    {
+        "status": "Rejected", 
+        "goal": "Sales", 
+        "total_budget": 98, 
+        "id": "0d5a1643-654f-4a98-98f7-b7b0162382f4", 
+        "name": "Campaign6ec52399-ff80-452f-97ce-8aa8e82df59b"
+    }, 
+    {
+        "status": "Delivering", 
+        "goal": "Sales", 
+        "total_budget": 151, 
+        "id": "2dc81338-127d-44e1-9dd5-74e94cd5b404", 
+        "name": "Campaign648561ae-ee2c-414e-a68a-d096991b97b7"
+    }, 
+    {
+        "status": "Pending", 
+        "goal": "Branding", 
+        "total_budget": 91, 
+        "id": "e26ca7e7-62cc-4624-94f4-2b9b58c5b3a3", 
+        "name": "Campaign8eb3dfac-2922-4af9-801c-9597cb7b72e4"
+    }, 
+    {
+        "status": "Delivering", 
+        "goal": "Sales", 
+        "total_budget": 158, 
+        "id": "8d9e2604-745d-49e7-ac09-dbfae5955efb", 
+        "name": "Campaigndf54fe71-c74e-4a01-91b9-7436f29ddafb"
+    }, 
+    {
+        "status": "Rejected", 
+        "goal": "Sales", 
+        "total_budget": 79, 
+        "id": "24baefae-3a21-438a-86c5-139dd87c8125", 
+        "name": "Campaigneeab46b5-9066-412d-b538-d83c80bed106"
+    }, 
+    {
+        "status": "Rejected", 
+        "goal": "Branding", 
+        "total_budget": 118, 
+        "id": "e5edca0f-b668-4e84-b889-def30dd39b06", 
+        "name": "Campaign700eb1c4-6472-4cb3-b1ee-7f3e875895bf"
+    }, 
+    {
+        "status": "Delivering", 
+        "goal": "Sales", 
+        "total_budget": 70, 
+        "id": "3c1cb435-4878-46c5-88fd-cd093bb0b04c", 
+        "name": "Campaign80927ad2-0407-410f-ad25-3ce54b5e80da"
+    }, 
+    {
+        "status": "Pending", 
+        "goal": "Sales", 
+        "total_budget": 114, 
+        "id": "4171d898-0651-4259-bb70-a2a86aba5595", 
+        "name": "Campaignb985cbc3-8a2c-4e28-930e-aeb80476a1b4"
+    }, 
+    {
+        "status": "Rejected", 
+        "goal": "Branding", 
+        "total_budget": 105, 
+        "id": "bc25c70c-3af3-488f-9346-be2c7b779b41", 
+        "name": "Campaignb442d599-abb3-46ca-9994-39a370e51eb3"
+    }, 
+    {
+        "status": "Delivering", 
+        "goal": "Sales", 
+        "total_budget": 76, 
+        "id": "7d8cd41c-971a-4482-aeb4-abc5df0b8cdb", 
+        "name": "Campaignb3997eda-6620-465a-99b1-192ee2f9040a"
+    }, 
+    {
+        "status": "Delivering", 
+        "goal": "Sales", 
+        "total_budget": 140, 
+        "id": "c4231d74-4d2d-4ab8-b386-d2a02bd5129c", 
+        "name": "Campaigne16806be-7284-4d89-870b-732fb6bbaede"
+    }, 
+    {
+        "status": "Rejected", 
+        "goal": "Sales", 
+        "total_budget": 167, 
+        "id": "d4713b01-e04f-4499-95e3-6b27e0c65576", 
+        "name": "Campaignbb1b0a45-89a0-40bb-801f-301824279162"
+    }, 
+    {
+        "status": "Pending", 
+        "goal": "Branding", 
+        "total_budget": 139, 
+        "id": "ef0cf250-24b7-48c1-8ecd-ba82b0ee2265", 
+        "name": "Campaign8dfcd1bb-af96-478c-bda9-5fc43f60eed6"
+    }, 
+    {
+        "status": "Rejected", 
+        "goal": "Branding", 
+        "total_budget": 135, 
+        "id": "832ebde0-9139-4455-9572-430907ca2995", 
+        "name": "Campaignc9d13800-16ec-4228-afdc-af2604155e09"
+    }, 
+    {
+        "status": "Pending", 
+        "goal": "Branding", 
+        "total_budget": 113, 
+        "id": "7e441299-24f6-4471-b332-fd160a5e066e", 
+        "name": "Campaigncb9ecdc2-d4c1-48e2-b623-361051d40538"
+    }
+]
